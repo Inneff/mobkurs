@@ -1,4 +1,4 @@
-# mobkurs
+# wanderlustapp
 
 A new Flutter project.
 

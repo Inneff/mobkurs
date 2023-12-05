@@ -1,6 +1,6 @@
 {
-    "name": "mobkurs",
-    "short_name": "mobkurs",
+    "name": "wanderlustapp",
+    "short_name": "wanderlustapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
