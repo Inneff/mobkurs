@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433301837855",
+    "project_id": "wanderlustapp-4cfc5",
+    "storage_bucket": "wanderlustapp-4cfc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433301837855:android:ce872c46c1eaaca26bdd2a",
+        "android_client_info": {
+          "package_name": "com.example.wanderlustapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz2DCYmyNOlixITqlsbWtYjVp3Z1RDnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
